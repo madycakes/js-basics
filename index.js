@@ -16,6 +16,8 @@ console.log(pet);
 * Each value should be a String. 
 **/
 
+var firstName = "vic";
+console.log(firstName);
 
 /**
 * #2
