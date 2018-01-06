@@ -19,6 +19,9 @@ console.log(pet);
 var firstName = "vic";
 console.log(firstName);
 
+var lastName = "lee";
+
+
 /**
 * #2
 * Variables with a Number value
